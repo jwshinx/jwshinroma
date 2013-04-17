@@ -1,10 +1,12 @@
-require 'physical/body'
-require 'physical/appendage'
+require 'jwshinroma/poopable'
+require 'jwshinroma/physical/body'
+require 'jwshinroma/physical/appendage'
 
 module Jwshinroma
  class Dog < Mammal 
-  include Body
-  include Appendage
+  include Poopable 
+  include Physical::Body 
+  include Physical::Appendage
 
   attr_reader :name
  
