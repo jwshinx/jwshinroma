@@ -1,3 +1,4 @@
+
 module Jwshinroma
  class Dog < Mammal 
   attr_reader :name
