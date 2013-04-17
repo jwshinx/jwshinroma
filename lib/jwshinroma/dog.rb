@@ -1,5 +1,5 @@
 module Jwshinroma
- class Dog
+ class Dog < Mammal 
   attr_reader :name
  
   def initialize name
