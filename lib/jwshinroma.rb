@@ -1,3 +1,5 @@
+require 'jwshinroma/dog'
+
 class String
  def jwshin
   'jwshin'
@@ -7,4 +9,3 @@ class String
  end
 end
 
-require 'jwshinroma/dog'
