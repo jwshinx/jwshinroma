@@ -1,3 +1,4 @@
+require 'jwshinroma/mammal'
 require 'jwshinroma/dog'
 
 class String
