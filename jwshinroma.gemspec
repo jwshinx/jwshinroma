@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'jwshinroma'
-  s.version     = '0.0.5'
+  s.version     = '0.0.7'
   s.date        = '2013-04-17'
   s.summary     = "Roma!"
   s.description = "A simple jwshin gem"
